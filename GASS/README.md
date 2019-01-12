@@ -1,2 +1,2 @@
-SPA
-Silent Public Announcements
+SPAS
+Silent Public Addressing System
