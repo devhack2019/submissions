@@ -4,8 +4,11 @@ Project Title :- Smart Dustbin
 Members :- 	
 
 Yash Doshi	160020001
+
 Shruti Patel	160010002
+
 Anurag Arjunan	160030007
+
 Rohan Sheelvant	160020005
 
 Resources Used :-
